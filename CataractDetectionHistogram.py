@@ -8,7 +8,6 @@ from PIL import ImageTk
 import tkinter.filedialog
 from PIL import Image
 
-
 def select_image():
 
     path = tkinter.filedialog.askopenfilename()
